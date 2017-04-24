@@ -65,7 +65,7 @@ CREATE TABLE
 What is the SQL command to remove a database table named `mytable`?
 
 ```sql
-DROP TABLE <tablename>;
+DROP TABLE <tablename>
 ```
 
 ## Table row CRUD
